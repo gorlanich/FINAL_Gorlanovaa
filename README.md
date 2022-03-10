@@ -1,4 +1,4 @@
-# final_flutter_app
+# Gorlanov AA Final Case Pancake Eaters cards
 
 A new Flutter project.
 
